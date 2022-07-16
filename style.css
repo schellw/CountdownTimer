@@ -1,0 +1,12 @@
+h1 {
+    width: 100%;
+    text-align: center;
+    font-size: 52pt;
+    color: #dc143c;
+    overflow: visible;
+}
+
+body {
+    padding: 0;
+    overflow: visible;
+}

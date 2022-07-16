@@ -1,8 +1,8 @@
 {
-    "formHeight": 800,
-    "formWidth": 800,
+    "formHeight": 200,
+    "formWidth": 200,
     "fontSize": "52pt",
     "color": "#dc143c",
-    "showFrame": true,
-    "showDevTools": true
+    "showFrame": false,
+    "showDevTools": false
 }
